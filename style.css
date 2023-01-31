@@ -1,0 +1,10 @@
+span {
+    display: inline-block;
+  }
+  body {
+    text-align: center;
+  }
+  .resize {
+    width: 100px;
+    height: 100px;
+  }
